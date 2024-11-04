@@ -1,0 +1,10 @@
+C:\Users\kekan\Desktop\PRG 282\DataSets\DataSets\bin\Debug\DataSets.exe.config
+C:\Users\kekan\Desktop\PRG 282\DataSets\DataSets\bin\Debug\DataSets.exe
+C:\Users\kekan\Desktop\PRG 282\DataSets\DataSets\bin\Debug\DataSets.pdb
+C:\Users\kekan\Desktop\PRG 282\DataSets\DataSets\obj\Debug\DataSets.csproj.AssemblyReference.cache
+C:\Users\kekan\Desktop\PRG 282\DataSets\DataSets\obj\Debug\DataSets.Form1.resources
+C:\Users\kekan\Desktop\PRG 282\DataSets\DataSets\obj\Debug\DataSets.Properties.Resources.resources
+C:\Users\kekan\Desktop\PRG 282\DataSets\DataSets\obj\Debug\DataSets.csproj.GenerateResource.cache
+C:\Users\kekan\Desktop\PRG 282\DataSets\DataSets\obj\Debug\DataSets.csproj.CoreCompileInputs.cache
+C:\Users\kekan\Desktop\PRG 282\DataSets\DataSets\obj\Debug\DataSets.exe
+C:\Users\kekan\Desktop\PRG 282\DataSets\DataSets\obj\Debug\DataSets.pdb

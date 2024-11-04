@@ -1,0 +1,6 @@
+EmpID	Name	Surname	Qualification	
+235	Jane	Pink	Masters	
+257	Anila	Maroon	PHD	
+456	Simba	Amber	Masters	
+597	Themba	Black	Masters	
+934	Mark	Fish	Degree	
