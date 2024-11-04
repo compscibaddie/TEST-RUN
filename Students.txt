@@ -1,0 +1,6 @@
+StudentID	Name	Surname	Course	
+2257	Susan	Grey	Degree	
+2597	Andrew	Yellow	Diploma	
+2934	Mark	Blue	Degree	
+2935	Sarah	Green	Diploma	
+2937	John	Red	Diploma	
